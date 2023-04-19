@@ -5,4 +5,5 @@ function getDifference(num1, num2) {
   }
   
 getDifference(10, 6);
+
   
